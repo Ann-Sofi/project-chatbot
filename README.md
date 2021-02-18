@@ -13,4 +13,4 @@ If we had more time we would for example have done some styling. We would also t
 ## View it live
 
 Project can be found here:
-https://tender-dijkstra-73ca91.netlify.app/
+https://unruffled-wing-0ab879.netlify.app/
